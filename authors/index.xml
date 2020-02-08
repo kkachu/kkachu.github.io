@@ -5,10 +5,19 @@
     <link>http://www.kkachu.github.io/authors/</link>
     <description>Recent content in Authors on kKachu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.kkachu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>kkachu</title>
+      <link>http://www.kkachu.github.io/authors/kkachu/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.kkachu.github.io/authors/kkachu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>muniftanjim</title>
