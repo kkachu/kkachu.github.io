@@ -1,13 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Minimo</title>
-    <link>http://www.example.com/categories/</link>
-    <description>Recent content in Categories on Minimo</description>
+    <title>Categories on kKachu</title>
+    <link>http://www.kkachu.github.io/categories/</link>
+    <description>Recent content in Categories on kKachu</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.kkachu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>others</title>
+      <link>http://www.kkachu.github.io/categories/others/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.kkachu.github.io/categories/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>features</title>
+      <link>http://www.kkachu.github.io/categories/features/</link>
+      <pubDate>Sun, 12 Aug 2018 12:30:00 +0600</pubDate>
+      
+      <guid>http://www.kkachu.github.io/categories/features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>http://www.kkachu.github.io/categories/tutorial/</link>
+      <pubDate>Mon, 25 Sep 2017 06:00:00 +0600</pubDate>
+      
+      <guid>http://www.kkachu.github.io/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://www.kkachu.github.io/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>http://www.kkachu.github.io/categories/r/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
